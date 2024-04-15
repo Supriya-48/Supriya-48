@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*yBvA5CnEX3Sd4aod.gif" width="100"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*yBvA5CnEX3Sd4aod.gif" width="30%"/>
     <div id="badges">
         <a href="https://leetcode.com/Supriya_muppu/">
             <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/>
